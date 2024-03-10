@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravigel T. Ablen</h1>
-<h3 align="center">Just a students wants to learn to code(nah I'd Copy/Paste)</h3>
+<h3 align="center">Just a student wants to learn to code(nah I'd Copy/Paste)</h3>
 
 - 🔭 I’m currently working on **N/A**
 
